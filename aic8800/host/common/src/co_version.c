@@ -1,0 +1,1 @@
+const char aic_wifi_version[] = "master 2024-04-12 15:58:50 +0800 a4685dc5";
